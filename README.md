@@ -7,4 +7,4 @@ A homepage or landing page with clock and a interactive note part where we can s
 ## Acknowledgments
 
 * Traversy Media (https://www.youtube.com/user/TechGuyWeb)
-* Youtube link for the project (https://www.youtube.com/watch?v=fSTQzlprGLI)
+* Youtube link for the tutorial of project (https://www.youtube.com/watch?v=fSTQzlprGLI)
