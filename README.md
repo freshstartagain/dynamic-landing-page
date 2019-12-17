@@ -2,7 +2,7 @@
 
 A homepage or landing page with clock and a interactive note part where we can save our name/focus to local web storage.
 
-![](https://imgur.com/cd7bed91-1711-4586-8c9c-0fcf5bddd892)
+![](https://i.imgur.com/BQbOoGs.gif)
 
 ## Acknowledgments
 
